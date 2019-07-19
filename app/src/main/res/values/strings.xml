@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe-App</string>
+    <string name="ok_text">Ok</string>
+    <string name="cancel">Cancelar</string>
+    <string name="win">Gana jugador 1</string>
+    <string name="congratulation">Felicitaciones!, gracias por participar</string>
+    <string name="win2">Ganador jugador 2</string>
+    <string name="draw">Empate</string>
+    <string name="draw_message">Nadie gana</string>
+</resources>
